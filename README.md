@@ -4,14 +4,14 @@ I'm a Cybersecurity & Network Engineering Researcher / Developer. Passionate abo
 
 ---
 
-### 🔭 Areas of Interest & Research
+### Areas of Interest & Research
 - **Network & Hardware Security:** Exploring low-level hardware, microcontrollers (ESP32, Arduino), USB controllers, and custom firmware analysis.
 - **Open-Source Tool Development:** Building automated tools for network discovery, stream analysis, and cybersecurity workflows.
 - **System Architecture & Software:** Developing desktop applications, automation scripts, and exploring software architecture.
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 - **Languages:** Python, Bash, SQL,
 - **Networking & Security:** TCP/IP, OSI Architecture, Nmap, Wireshark, Burp Suite, Metasploit, Aircrack-ng
 - **Hardware & Microcontrollers:** ESP32, Arduino, Raspberry Pi, Embedded Systems
