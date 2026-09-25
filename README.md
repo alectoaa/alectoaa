@@ -19,10 +19,4 @@ I'm a Cybersecurity & Network Engineering Researcher / Developer. Passionate abo
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alectoaa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alectoaa&layout=compact&theme=radical)
-
----
-
 > *"Control is an illusion. Keep digging, keep breaking, keep watching."
