@@ -11,22 +11,15 @@ I'm a Cybersecurity & Network Engineering Researcher / Developer. Passionate abo
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack & Expertise
 
-<h4>Languages</h4>
-<code>Python</code> &nbsp; <code>C++</code> &nbsp; <code>Bash</code> &nbsp; <code>SQL</code> &nbsp; <code>JavaScript</code>
-
-<h4>Networking & Security</h4>
-<code>TCP/IP</code> &nbsp; <code>Nmap</code> &nbsp; <code>Wireshark</code> &nbsp; <code>Burp Suite</code> &nbsp; <code>Metasploit</code>
-
-<h4>Hardware & Microcontrollers</h4>
-<code>ESP32</code> &nbsp; <code>Arduino</code> &nbsp; <code>Raspberry Pi</code>
-
-<h4>Environments & OS</h4>
-<code>Linux</code> &nbsp; <code>VS Code</code> &nbsp; <code>Git</code>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **💻 Languages** | `Python` • `C++` • `Bash` • `SQL` • `JavaScript` |
+| **🛡️ Networking & Security** | `TCP/IP` • `Nmap` • `Wireshark` • `Burp Suite` • `Metasploit` • `Aircrack-ng` |
+| **🔌 Hardware & Embedded** | `ESP32` • `Arduino` • `Raspberry Pi` • `Embedded Systems` |
+| **⚙️ Environments & OS** | `Linux Distributions` • `VS Code` • `Git` |
 
 ---
 
 > *"Control is an illusion. Keep digging, keep breaking, keep watching."*
->
-> 
