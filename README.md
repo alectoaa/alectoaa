@@ -12,11 +12,39 @@ I'm a Cybersecurity & Network Engineering Researcher / Developer. Passionate abo
 ---
 
 ### 🛠 Tech Stack & Tools
-- **Languages:** Python, C++, Bash, SQL, JavaScript
-- **Networking & Security:** TCP/IP, OSI Architecture, Nmap, Wireshark, Burp Suite, Metasploit, Aircrack-ng
-- **Hardware & Microcontrollers:** ESP32, Arduino, Raspberry Pi, Embedded Systems
-- **Environments & OS:** Linux distributions, VS Code, Git
+
+<!-- Languages -->
+![Python](https://shields.io)
+![C++](https://shields.io)
+![Bash](https://shields.io)
+![SQL](https://shields.io)
+![JavaScript](https://shields.io)
+
+<!-- Networking & Security -->
+![TCP/IP](https://shields.io)
+![Nmap](https://shields.io)
+![Wireshark](https://shields.io)
+![Burp Suite](https://shields.io)
+![Metasploit](https://shields.io)
+
+<!-- Hardware & Microcontrollers -->
+![ESP32](https://shields.io)
+![Arduino](https://shields.io)
+![Raspberry Pi](https://shields.io)
+
+<!-- Environments & OS -->
+![Linux](https://shields.io)
+![VS Code](https://shields.io)
+![Git](https://shields.io)
 
 ---
 
-> *"Control is an illusion. Keep digging, keep breaking, keep watching."
+### 📊 GitHub Analytics
+<p align="left">
+<img src="https://vercel.app" alt="alectoa's GitHub Stats" height="180px" />
+<img src="https://vercel.app" alt="Top Langs" height="180px" />
+</p>
+
+---
+
+> *"Control is an illusion. Keep digging, keep breaking, keep watching."*
