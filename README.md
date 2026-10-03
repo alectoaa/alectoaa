@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Cybersecurity & Network Engineering Researcher / Developer. Passionate about understanding systems from the ground up—from low-level hardware and embedded microcontrollers to high-level network protocols and security automation.
+I'm a Cybersecurity & Network Engineering Researcher / Developer. Passionate about understanding systems from the ground up from low-level hardware and embedded microcontrollers to high-level network protocols and security automation.
 
 ---
 
