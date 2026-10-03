@@ -13,29 +13,29 @@ I'm a Cybersecurity & Network Engineering Researcher / Developer. Passionate abo
 
 ### 🛠 Tech Stack & Tools
 
-**Languages**  
-![Python](https://shields.io) 
-![C++](https://shields.io) 
-![Bash](https://shields.io) 
-![SQL](https://shields.io) 
-![JavaScript](https://shields.io)
+<h4>Languages</h4>
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
 
-**Networking & Security**  
-![TCP/IP](https://shields.io) 
-![Nmap](https://shields.io) 
-![Wireshark](https://shields.io) 
-![Burp Suite](https://shields.io) 
-![Metasploit](https://shields.io)
+<h4>Networking & Security</h4>
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
 
-**Hardware & Microcontrollers**  
-![ESP32](https://shields.io) 
-![Arduino](https://shields.io) 
-![Raspberry Pi](https://shields.io)
+<h4>Hardware & Microcontrollers</h4>
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
 
-**Environments & OS**  
-![Linux](https://shields.io) 
-![VS Code](https://shields.io) 
-![Git](https://shields.io)
+<h4>Environments & OS</h4>
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
 
 ---
 
