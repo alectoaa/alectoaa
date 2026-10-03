@@ -14,38 +14,19 @@ I'm a Cybersecurity & Network Engineering Researcher / Developer. Passionate abo
 ### 🛠 Tech Stack & Tools
 
 <h4>Languages</h4>
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
+<code>Python</code> &nbsp; <code>C++</code> &nbsp; <code>Bash</code> &nbsp; <code>SQL</code> &nbsp; <code>JavaScript</code>
 
 <h4>Networking & Security</h4>
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
+<code>TCP/IP</code> &nbsp; <code>Nmap</code> &nbsp; <code>Wireshark</code> &nbsp; <code>Burp Suite</code> &nbsp; <code>Metasploit</code>
 
 <h4>Hardware & Microcontrollers</h4>
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
+<code>ESP32</code> &nbsp; <code>Arduino</code> &nbsp; <code>Raspberry Pi</code>
 
 <h4>Environments & OS</h4>
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-
----
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://vercel.app" alt="alectoaa's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Langs" height="180px" />
-</p>
+<code>Linux</code> &nbsp; <code>VS Code</code> &nbsp; <code>Git</code>
 
 ---
 
 > *"Control is an illusion. Keep digging, keep breaking, keep watching."*
+>
+> 
