@@ -1,4 +1,4 @@
-# <p align="center">Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+# <p align="center">Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 
 <p align="center">
   <em>Cybersecurity & Network Engineering Researcher / Developer</em><br>
