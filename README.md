@@ -37,11 +37,4 @@ I'm a Cybersecurity & Network Engineering Researcher / Developer. Passionate abo
 
 ---
 
-### 📊 Engineering Standards
-- 🔒 **Local-First Privacy:** Zero remote data collection on personal metrics and security tools.
-- 🧪 **Modular Architecture:** Clean separation of core engines, database managers, and UI components.
-- 📖 **Open Documentation:** Explicit guidelines, environment configs, and reproducible setups.
-
----
-
 > *"Control is an illusion. Keep digging, keep breaking, keep watching."*
